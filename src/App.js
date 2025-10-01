@@ -9,7 +9,7 @@ function App() {
         <img src={avatar} alt="Hồ Văn Xuân Phước" className="avatar" />
         <h1>Hồ Văn Xuân Phước</h1>
         <p className="subtitle">
-          Sinh viên năm 5 chuyên ngành Công nghệ phần mềm - Trường Đại học Khoa học Huế- GPA 3.0
+          Sinh viên năm thứ 5 chuyên ngành Công nghệ phần mềm - Hue University of Sciences - GPA 3.0
         </p>
         <div className="contact-info">
           <div className="contact-item">
